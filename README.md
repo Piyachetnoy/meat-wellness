@@ -1,4 +1,5 @@
 # team-c-2024-summer-08-26
-2024年度夏季インターンシップ(8/26～) チームCの成果物
-タイトル：肉判別
+NALGO 2024 Summer Internship 
+Team-C Projects
+Title: Is the meat grilled?
 
